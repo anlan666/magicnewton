@@ -1,0 +1,20 @@
+[
+    {
+        "name": "用户名",
+        "cookie": [
+            {
+                "name": "__Secure-next-auth.session-token",
+                "value": "填入你的cookie",
+                "domain": ".magicnewton.com",
+                "path": "/",
+                "secure": true,
+                "httpOnly": true
+            }
+        ],
+        "stats": {
+            "wins": 0,
+            "losses": 0,
+            "profit": 0
+        }
+    }
+]

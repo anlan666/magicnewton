@@ -1,2 +1,1 @@
-# magicnewton
-每日投骰子
+![img.png](img.png)
